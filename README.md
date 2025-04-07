@@ -17,7 +17,7 @@ Esse arquivo basicamente se refere ao cabeçalho da página e seu design.
 
 ### EquipmentContext
 
-Esse arquivo é onde se chama, através do id, cada um dos equipamentos para que depois possam ser exibidos na tela.
+Esse arquivo é onde se chama, através do id, cada um dos elementos para que depois possam ser exibidos na tela.
 
 ### App
 
